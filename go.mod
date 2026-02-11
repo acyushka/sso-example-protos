@@ -1,4 +1,4 @@
-module sso-example-protos
+module github.com/acyushka/sso-example-protos
 
 go 1.24.5
 
